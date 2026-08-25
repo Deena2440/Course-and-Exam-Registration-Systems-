@@ -1,8 +1,8 @@
 # Course-Reservation-and-Exam-registration-systems
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224040058
+# Name: DEENATHAYALAN K
+
 
 
 # AIM:
@@ -41,6 +41,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="927" height="767" alt="image" src="https://github.com/user-attachments/assets/54f7204e-f6c6-4fe0-b34b-a042c802de5c" />
 
 
 
@@ -59,6 +60,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1090" height="949" alt="image" src="https://github.com/user-attachments/assets/20f9202c-45ac-4171-a5a3-0e7034e261a1" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -68,6 +70,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="944" height="589" alt="image" src="https://github.com/user-attachments/assets/5f93c228-5227-4e00-8f0d-45bbed36f7c0" />
 
 
 # PACKAGE DIAGRAM:
@@ -80,6 +83,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="834" height="621" alt="image" src="https://github.com/user-attachments/assets/a95ba9b4-929a-4fd9-b70f-3ca03641935d" />
 
 
 
@@ -99,6 +103,7 @@ Describe the steps performed in a UML use case.
 
 
 
+<img width="581" height="966" alt="image" src="https://github.com/user-attachments/assets/9f579e88-7236-4eeb-a69f-34795da19c52" />
 
 
 # SEQUENCE DIAGRAM
@@ -119,6 +124,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="835" height="754" alt="image" src="https://github.com/user-attachments/assets/d02a1698-1818-48a8-8bcc-f37f9d7e0916" />
 
 
 
